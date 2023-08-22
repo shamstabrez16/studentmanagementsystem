@@ -1,2 +1,2 @@
-# studentmanagementsystem a SpringMVC and REST Services App for practice
+# Student Management System a SpringMVC and REST Services App for practice
 
