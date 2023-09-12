@@ -1,4 +1,4 @@
-package com.shamstabrez16.studentmanagementsystem.controller;
+package com.shamstabrez16.studentmanagementsystem.config.controller;
 
 
 import com.shamstabrez16.studentmanagementsystem.dto.UserDto;
