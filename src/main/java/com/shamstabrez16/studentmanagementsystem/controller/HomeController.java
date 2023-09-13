@@ -1,4 +1,4 @@
-package com.shamstabrez16.studentmanagementsystem.config.controller;
+package com.shamstabrez16.studentmanagementsystem.controller;
 
 
 import com.shamstabrez16.studentmanagementsystem.model.Student;
